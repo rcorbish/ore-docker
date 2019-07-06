@@ -4,5 +4,5 @@ See http://www.opensourcerisk.org/wp-content/uploads/2017/05/userguide.pdf for i
 
 # To build this image
 
-'''docker build -t rcorbish/ore https://github.com/rcorbish/ore-docker.git'''
+`docker build -t rcorbish/ore https://github.com/rcorbish/ore-docker.git`
 
