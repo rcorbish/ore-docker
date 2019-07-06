@@ -1,5 +1,5 @@
 
-FROM debian:stretch
+FROM ubuntu:cosmic
 
 
 RUN \
